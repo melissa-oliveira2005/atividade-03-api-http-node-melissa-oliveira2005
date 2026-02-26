@@ -46,9 +46,9 @@ Os dados deverão ser armazenados em memória (array).
 
 Edite esta seção antes de iniciar.
 
-Nome completo:
-Matrícula:
-Variação calculada:
+Nome completo: Melissa Carolyne Alves de Oliveira
+Matrícula: 2023007857
+Variação calculada: (3): 7 % 4 = 3
 
 Cálculo da variação:
 Último dígito da matrícula % 4
